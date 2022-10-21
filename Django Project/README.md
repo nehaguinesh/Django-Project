@@ -1,3 +1,3 @@
-# Zuri-week4-python-task
+# Task Title: Week 4 Python Task: Pip, Virtual environments and intro to Django
 
 Created a new Django project named “songcrud” and create an app in the project called “musicapp”. created a virtual environment and Added requirements.txt file housing all the pinned dependencies from my project.
